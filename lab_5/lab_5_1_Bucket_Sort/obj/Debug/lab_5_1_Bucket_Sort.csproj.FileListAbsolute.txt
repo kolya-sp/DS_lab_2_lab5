@@ -1,0 +1,6 @@
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_5_1_Bucket_Sort\bin\Debug\lab_5_1_Bucket_Sort.exe.config
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_5_1_Bucket_Sort\bin\Debug\lab_5_1_Bucket_Sort.exe
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_5_1_Bucket_Sort\bin\Debug\lab_5_1_Bucket_Sort.pdb
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_5_1_Bucket_Sort\obj\Debug\lab_5_1_Bucket_Sort.csprojAssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_5_1_Bucket_Sort\obj\Debug\lab_5_1_Bucket_Sort.exe
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_5_1_Bucket_Sort\obj\Debug\lab_5_1_Bucket_Sort.pdb

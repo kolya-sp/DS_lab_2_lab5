@@ -1,0 +1,7 @@
+test Hesh_tabl_vidkrita: 
+ data;Hesh_tabl_vidkrita write ;Hesh_tabl_vidkrita read
+200000;76;13
+400000;348;39
+600000;565;81
+800000;891;218
+950000;1492;3088

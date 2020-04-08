@@ -1,0 +1,6 @@
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_2_hesh_list\bin\Debug\lab_2_hesh_list.exe.config
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_2_hesh_list\bin\Debug\lab_2_hesh_list.exe
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_2_hesh_list\bin\Debug\lab_2_hesh_list.pdb
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_2_hesh_list\obj\Debug\lab_2_hesh_list.csprojAssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_2_hesh_list\obj\Debug\lab_2_hesh_list.exe
+C:\Users\user\Documents\учебники и задания\2020 - Інформація - ТА, ДС (ІТ-92,94)\ДС\лабы\lab_2_hesh_list\obj\Debug\lab_2_hesh_list.pdb

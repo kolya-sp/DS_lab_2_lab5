@@ -1,0 +1,7 @@
+test Hesh_tabl_list: 
+ data;Hesh_tabl_list write ;Hesh_tabl_list read
+200000;152;13
+400000;619;39
+600000;881;76
+800000;1251;111
+1000000;1553;163
